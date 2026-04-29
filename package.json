@@ -1,11 +1,6 @@
 {
   "name": "email-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
   "type": "module",
   "dependencies": {
     "multer": "^2.1.1",
